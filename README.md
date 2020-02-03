@@ -8,9 +8,9 @@ Flachkopfschrauben:
 38×  5×20 mm
 
 Senkschrauben:
-4x  6x50 mm
-4×  6×30 mm
-1x  3x10 mm
+4x  6x50 mm//
+4×  6×30 mm//
+1x  3x10 mm//
 
 Innen 6-kant Schrauben:
 12× M3×30
