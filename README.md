@@ -5,7 +5,7 @@
 ### Schrauben:
 
 - Flachkopfschrauben:<br/>
-38×  5×20 mm
+38×  5×20 mm<br/>
 - Senkschrauben:<br/>
 4x  6x50 mm<br/>
 4×  6×30 mm<br/>
@@ -14,8 +14,9 @@
 12× M3×30<br/>
 4×  M3×10<br/>
 4×  M3×18<br/>
+2x  M3x12<br/>
 - Muttern:<br/>
-2× M4<br/>
+2× M3<br/>
 
 ### Werkzeug:
 - Schraubenzieher / Akku-Bohrmaschine mit Einsätzen<br/>
