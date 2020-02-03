@@ -4,20 +4,20 @@
 
 ### Schrauben:
 
-Flachkopfschrauben:
+- Flachkopfschrauben:
 38×  5×20 mm
 
-Senkschrauben:
+- Senkschrauben:
 4x  6x50 mm<br/>
 4×  6×30 mm<br/>
 1x  3x10 mm<br/>
 
-Innen 6-kant Schrauben:
+- Innen 6-kant Schrauben:
 12× M3×30<br/>
 4×  M3×10<br/>
 4×  M3×18<br/>
 
-Muttern:
+- Muttern:
 2× M4<br/>
 
 ### Werkzeug:
