@@ -21,8 +21,8 @@ Muttern:
 2× M4<br/>
 
 ### Werkzeug:
-Schraubenzieher / Akku-Bohrmaschine mit Einsätzen<br/>
-6-kant Schlüssel 2.5mm<br/>
-Loctite<br/>
-Bohrer: ø2mm, ø5mm, ø8mm, ø10mm, ø12mm<br/>
-Japanmesser<br/>
+- Schraubenzieher / Akku-Bohrmaschine mit Einsätzen<br/>
+- 6-kant Schlüssel 2.5mm<br/>
+- Loctite<br/>
+- Bohrer: ø2mm, ø5mm, ø8mm, ø10mm, ø12mm<br/>
+- Japanmesser<br/>
