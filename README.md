@@ -24,3 +24,6 @@
 - Loctite<br/>
 - Bohrer: ø2mm, ø5mm, ø8mm, ø10mm, ø12mm<br/>
 - Japanmesser<br/>
+
+### Montage Kamera:
+https://www.thingiverse.com/thing:3728526
